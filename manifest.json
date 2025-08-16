@@ -1,0 +1,9 @@
+{
+  "latest": "0.2.1",
+  "min_supported": "0.2.1",
+  "release_notes": "Pierwsze wydanie.",
+  "server_uri": "wss://sole-shaine-patrykgru-99c48ea2.koyeb.app",
+  "launch_exe": "RGameL.exe",
+  "full_url": "https://github.com/grudziecki97/real-game/releases/download/v0.2.0/RealLife_0.2.1.zip",
+  "full_sha256": "086f9924a9e065674c7b89a7aa8b94ed9c4db8487cc8cba27d6709ca8a12629e"
+}
